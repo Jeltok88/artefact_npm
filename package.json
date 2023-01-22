@@ -1,0 +1,22 @@
+{
+  "name": "artefact_npm_berezhnoy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jeltok88/artefact_npm.git"
+  },
+  "author": "Berezhnoy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jeltok88/artefact_npm/issues"
+  },
+  "homepage": "https://github.com/Jeltok88/artefact_npm#readme",
+  "dependencies": {
+    "jquery": "^3.6.3"
+  }
+}
